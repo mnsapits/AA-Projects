@@ -1,0 +1,35 @@
+ul {
+  float: left;
+  display: block;
+  background-color: black;
+  width: 150px;
+  height: 5px;
+  margin: 5px;
+}
+
+.disc-1 {
+  display: block;
+  background-color: blue;
+  width: 50px;
+  height: 20px;
+  border-radius: 25px;
+  margin: 5px;
+}
+
+.disc-2 {
+  display: block;
+  background-color: blue;
+  width: 75px;
+  height: 20px;
+  border-radius: 25px;
+  margin: 5px;
+}
+
+.disc-3 {
+  display: block;
+  background-color: blue;
+  width: 100px;
+  height: 20px;
+  border-radius: 25px;
+  margin: 5px;
+}
